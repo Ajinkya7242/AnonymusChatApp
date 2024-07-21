@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "845806849310",
+    "project_id": "messaging-app-1555d",
+    "storage_bucket": "messaging-app-1555d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845806849310:android:f436d75e3cadf0a82e0d0f",
+        "android_client_info": {
+          "package_name": "com.example.googlemapsactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXoHfJiNEpGzypJYDrH-jyiBteXoYlNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845806849310:android:4ae444feef2a3e942e0d0f",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKXoHfJiNEpGzypJYDrH-jyiBteXoYlNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
